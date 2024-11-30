@@ -1,6 +1,10 @@
-# Welcome to My Website 🌐
+# Hello, I'm Nonpawit! 👋  
+Welcome to my digital space where technology, creativity, and learning come together.  
+Feel free to explore my journey in Computer Science and connect with me!
 
-## About Me
+![profile.png](assets/image/profile.png)
+
+## About Me 🧑‍💻 
 Hi! I'm Nonpawit Silabumrungrad This is a simple website hosted on GitHub Pages, where you can find my projects, interests, and contact details.
 
 ## Education 🎓
