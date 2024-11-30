@@ -20,6 +20,8 @@ Here is a summary of my education:
   Graduated: 2022
   Focus: Robotics and Computer Engineering
 
+## My Assignment 😘
+- [Hash Function](https://waterondaway.github.io/hash-function)
 
 ## Contact 📫
 Feel free to reach out to me:
