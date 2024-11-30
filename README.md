@@ -2,7 +2,9 @@
 Welcome to my digital space where technology, creativity, and learning come together.  
 Feel free to explore my journey in Computer Science and connect with me!
 
-
+<div>
+  <img src="assets/image/profile.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;">
+</div>
 
 ## About Me 🧑‍💻 
 Hi! I'm Nonpawit Silabumrungrad This is a simple website hosted on GitHub Pages, where you can find my projects, interests, and contact details.
