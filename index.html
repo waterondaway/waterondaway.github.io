@@ -1,11 +1,60 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="th">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nonpawit Silabumrungrad</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>หน้าเว็บด้วย Tailwind CSS</title>
+  <!-- ลิงก์ไปยัง Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-    <h1>Initial Commit</h1>
+
+<body class="bg-gray-100 text-gray-800">
+  <!-- Header -->
+  <header class="bg-blue-500 text-white p-4">
+    <div class="container mx-auto flex justify-between items-center">
+      <h1 class="text-2xl font-bold">My Website</h1>
+      <nav>
+        <a href="#" class="ml-4 hover:text-gray-300">Home</a>
+        <a href="#" class="ml-4 hover:text-gray-300">About</a>
+        <a href="#" class="ml-4 hover:text-gray-300">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="bg-white py-20">
+    <div class="container mx-auto text-center">
+      <h2 class="text-4xl font-bold mb-4">ยินดีต้อนรับสู่เว็บไซต์ของเรา</h2>
+      <p class="text-lg text-gray-600 mb-6">สร้างเว็บไซต์ด้วย Tailwind CSS ง่ายและรวดเร็ว</p>
+      <a href="#" class="bg-blue-500 text-white px-6 py-3 rounded hover:bg-blue-600">เริ่มต้นใช้งาน</a>
+    </div>
+  </section>
+
+  <!-- Features Section -->
+  <section class="py-12 bg-gray-100">
+    <div class="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div class="bg-white p-6 rounded shadow">
+        <h3 class="text-xl font-semibold mb-2">ฟีเจอร์ที่ 1</h3>
+        <p class="text-gray-600">รายละเอียดของฟีเจอร์นี้ที่มีประโยชน์ต่อผู้ใช้งาน</p>
+      </div>
+      <div class="bg-white p-6 rounded shadow">
+        <h3 class="text-xl font-semibold mb-2">ฟีเจอร์ที่ 2</h3>
+        <p class="text-gray-600">รายละเอียดของฟีเจอร์นี้ที่น่าสนใจและใช้งานง่าย</p>
+      </div>
+      <div class="bg-white p-6 rounded shadow">
+        <h3 class="text-xl font-semibold mb-2">ฟีเจอร์ที่ 3</h3>
+        <p class="text-gray-600">ฟีเจอร์ที่ช่วยเพิ่มประสบการณ์ให้กับผู้ใช้งาน</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-blue-500 text-white p-4 mt-12">
+    <div class="container mx-auto text-center">
+      <p>&copy; 2024 My Website. All rights reserved.</p>
+    </div>
+  </footer>
 </body>
+
 </html>
