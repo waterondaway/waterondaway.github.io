@@ -1,5 +1,5 @@
-# WEEK01 Assignment 😵‍💫
-Select Vocab "Hash Function"
+# WEEK01 Assignment 😵‍💫  
+### Vocabulary Selection: **Hash Function**  
 
-## About Me 🧑‍💻 
-Hi! I'm Nonpawit Silabumrungrad This is a simple website hosted on GitHub Pages, where you can find my projects, interests, and contact details.
+For this assignment, I have selected the term **"Hash Function."**  
+I will be researching and defining its meaning from reliable sources such as **CISSP** and **NIST**.
