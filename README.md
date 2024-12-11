@@ -21,7 +21,7 @@ Here is a summary of my education:
   Focus: Robotics and Computer Engineering
 
 ## My Assignment 😘
-- [Hash Function](https://waterondaway.github.io/hash-function)
+- [Hash Function](/hash-function.md)
 
 ## Contact 📫
 Feel free to reach out to me:
