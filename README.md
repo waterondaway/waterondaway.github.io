@@ -1,5 +1,4 @@
 # Hello, I'm Nonpawit! 👋  
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 Welcome to my digital space where technology, creativity, and learning come together.  
 Feel free to explore my journey in Computer Science and connect with me!
 
