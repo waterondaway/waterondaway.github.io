@@ -15,7 +15,7 @@
 | [NIST Glossary](https://csrc.nist.gov/glossary) | A function on bit strings in which the length of the output is fixed. Approved hash functions are designed to satisfy the following properties: (One-way) It is computationally infeasible to find any input that maps to any new pre-specified output, (Collision-resistant) It is computationally infeasible to find any two distinct inputs that map to the same output. | ฟังก์ชันที่ทำงานกับสตริงของบิต โดยมีความยาวของผลลัพธ์คงที่ ฟังก์ชันแฮชที่ได้รับการรับรองนั้นถูกออกแบบมาเพื่อให้ตรงตามคุณสมบัติต่อไปนี้ (One-way) เป็นไปไม่ได้ในทางปฏิบัติที่จะหาอินพุตใด ๆ ที่แมปไปยังเอาต์พุตที่กำหนดไว้ล่วงหน้า, (Collision-resistant) เป็นไปไม่ได้ในทางปฏิบัติที่จะหาอินพุตที่แตกต่างกันสองอินพุตใด ๆ ที่แมปไปยังเอาต์พุตเดียวกัน |
 
 #### My Definition
-> Hash Function คือ ฟังก์ชันทางคณิตศาสตร์ที่ใช้รับข้อมูลความยาวใดๆ และแปลงข้อมูลให้อยู่ในรูปแบบที่มนุษย์ไม่สามารถอ่านเข้าใจได้เช่น เลขฐาน 16 โดยมีความยาวเท่าเดิมกับข้อมูลเข้า เรียกว่า แฮช (Hash) โดยการ Hash แบ่งออกเป็น 2 ประเภทคือ 1. One-way คือการ Hash ที่ไม่สามารถย้อนกลับได้ 2. Collision-resistant คือการ Hash เพื่อลดโอกาสในการชนกันของข้อมูล
+> ฟังก์ชันแฮชคือกระบวนการที่รับข้อมูลที่มีความยาวไม่จำกัดและแปลงเป็นผลลัพธ์ที่มีความยาวคงที่ เรียกว่าค่าแฮช ซึ่งมีคุณสมบัติสำคัญ 2 รูปแบบได้แก่ 1.ไม่สามารถย้อนกลับเพื่อหาอินพุตต้นฉบับจากค่าแฮชได้ (One-way) 2.ไม่สามารถหาข้อมูลสองชุดที่ให้ค่าแฮชเหมือนกันได้ (Collision-Resistant)
 
 #### Everyday Scenario
 > การเก็บรหัสผ่านบนฐานข้อมูลของเว็บไซต์ รหัสผ่านของผู้ใช้งานโดยส่วนใหญ่จะถูกแปลงเป็นค่าแฮชก่อนจัดเก็บเข้าฐานข้อมูลเพื่อป้องกันการรั่วไหลของข้อมูล หากเกิดการรั่วไหลแต่ไม่สามารถย้อนค่า Hash กลับได้ก็ไม่สามารถอ่านข้อมูลได้
