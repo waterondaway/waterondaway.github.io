@@ -23,6 +23,7 @@ Here is a summary of my education:
 ## My Assignment 😘
 - [Hash Function](/hash-function.md)
 - [Christmas Card](/christmas.md)
+- [Accuracy](/accuracy.md)
 
 ## Contact 📫
 Feel free to reach out to me:
