@@ -24,6 +24,7 @@ Here is a summary of my education:
 - [Hash Function](/hash-function.md)
 - [Christmas Card](/christmas.md)
 - [Data Quality](/accuracy.md)
+- [PAO Election](/pao-elections.md)
 
 ## Contact 📫
 Feel free to reach out to me:
