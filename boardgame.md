@@ -19,6 +19,10 @@
 - สมาชิกกลุ่ม “The Standard” จำนวน 2 คน
 
 ### บรรยากาศการเล่นกิจกรรมดังกล่าว 
+#### รูปภาพ
+![profile.png](assets/image/profile.png)
+
+#### คลิปวิดีโอ > https://youtu.be/tMAkRKSooh4
 [![group.jpg](assets/image/group.jpg)](https://youtu.be/tMAkRKSooh4)
 
 ### สมาชิกกลุ่ม
