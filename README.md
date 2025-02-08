@@ -26,7 +26,7 @@ Here is a summary of my education:
 - [Data Quality](/accuracy.md)
 - [PAO Election](/pao-elections.md)
 - [Board Game](/boardgame.md)
-
+- [Security Control](/security-control.md)
 ## Contact 📫
 Feel free to reach out to me:
 - [Email](mailto:nonpawit.sila@gmail.com)
