@@ -1,5 +1,5 @@
 # Security Controls in Daily Life
-## By Nonpawit Silabumrungrad 6530200665 SEC 800
+By Nonpawit Silabumrungrad 6530200665 SEC 800
 
 # Digital Door Lock at Baansuksabuy Apartment
 ![keycard-doorlock.jpeg](assets/image/keycard-doorlock.jpeg)
