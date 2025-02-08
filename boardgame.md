@@ -20,7 +20,7 @@
 
 ### บรรยากาศการเล่นกิจกรรมดังกล่าว 
 #### รูปภาพ
-![profile.png](assets/image/profile.png)
+![board-game.png](assets/image/board-game.png)
 
 #### คลิปวิดีโอ > https://youtu.be/tMAkRKSooh4
 [![group.jpg](assets/image/group.jpg)](https://youtu.be/tMAkRKSooh4)
