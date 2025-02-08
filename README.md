@@ -25,6 +25,7 @@ Here is a summary of my education:
 - [Christmas Card](/christmas.md)
 - [Data Quality](/accuracy.md)
 - [PAO Election](/pao-elections.md)
+- [Board Game](/boardgame.md)
 
 ## Contact 📫
 Feel free to reach out to me:
