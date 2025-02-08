@@ -27,6 +27,7 @@ Here is a summary of my education:
 - [PAO Election](/pao-elections.md)
 - [Board Game](/boardgame.md)
 - [Security Control](/security-control.md)
+- [Security Requirement](/security-requirement.md)
 
 ## Contact 📫
 Feel free to reach out to me:
