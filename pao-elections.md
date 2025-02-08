@@ -4,4 +4,4 @@ The atmosphere at the local election in Sattahip is lively 🎉, with voters arr
 
 ## 1 FEBUARY 2025 | Check In
 
-![sefie_with_pao.jpeg](assets/image/sefie_with_pao.jpeg)
+![selfie_with_pao.jpeg](assets/image/selfie_with_pao.jpeg)
